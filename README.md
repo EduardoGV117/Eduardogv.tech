@@ -26,6 +26,11 @@ Un caso aplicable interesante sería utilizar el Rotary Encoder KY-040 junto con
 
 1. Conexión del Rotary Encoder KY-040 a la Raspberry Pi Pico.
    - Asegúrate de conectar correctamente los pines del sensor al Pi Pico.
+   -  Pin CLK (Clock): Conéctalo al pin GPIO de entrada 2 (por ejemplo, GP2) de la Raspberry Pi Pico.
+      Pin DT (Data): Conéctalo al pin GPIO de entrada 3 (por ejemplo, GP3) de la Raspberry Pi Pico.
+      Pin SW (Switch): Conéctalo al pin GPIO de entrada 4 (por ejemplo, GP4) de la Raspberry Pi Pico.
+      Pin + (VCC): Conéctalo al pin de alimentación de 3.3V (por ejemplo, 3V3OUT) de la Raspberry Pi Pico.
+      Pin GND: Conéctalo al pin de tierra (GND) de la Raspberry Pi Pico.
 
 2. Escritura de un programa en MicroPython.
    - Escribe un programa en MicroPython que lea los pulsos del Rotary Encoder y ajuste el brillo de una luz LED conectada al Pi Pico en función de la rotación del encoder.
