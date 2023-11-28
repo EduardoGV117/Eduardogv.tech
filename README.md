@@ -1,7 +1,7 @@
 # CodeMaster
 
-  CodeMaster
-  [![Instalador de code Master](/CodeMaster_Instalador.exe)](/CodeMaster_Instalador.exe "Instalador de CodeMaster")
+Instalador de Code master
+[![CodeMaster](/CodeMaster_Instalador.exe)](/CodeMaster_Instalador.exe)
   
 #  ¿Qué es Code Master?
 
@@ -46,7 +46,7 @@ Code Master mostrará el análisis léxico de su código en la ventana inferior.
 
 ## Ejemplo
 
-[Imagen de la interfaz de Code Master]
+![Imagen de CodeMaster](https://eduardogv.tech/images/CodeMaster.png)
 
 ## Compatibilidad
 
