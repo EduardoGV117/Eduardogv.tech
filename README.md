@@ -1,7 +1,7 @@
 # CodeMaster
 
 Instalador de Code master
-[![CodeMaster](/CodeMaster_Instalador.exe)](/CodeMaster_Instalador.exe)
+[![Icono](/Codemaster.png)](/CodeMaster_Instalador.exe "Instalador de CodeMaster")
   
 #  ¿Qué es Code Master?
 
