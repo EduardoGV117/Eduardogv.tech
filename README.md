@@ -1,8 +1,7 @@
 # CodeMaster
 
 Instalador de Code master
-[![Icono](/Icono.png)]
-[Link de descarga](/CodeMaster_Instalador.exe)
+[![Link de descarga](/CodeMaster_Instalador.exe)]
   
 #  ¿Qué es Code Master?
 
