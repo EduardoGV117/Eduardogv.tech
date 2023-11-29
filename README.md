@@ -20,7 +20,7 @@ Ventajas
 
 Es fácil de usar
 Es gratuito
-Está disponible para Windows, macOS y Linux
+Está disponible para Windows
 ¿Por qué es una buena opción?
 
 ## Code Master es una buena opción para los siguientes usuarios:
