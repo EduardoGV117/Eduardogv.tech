@@ -52,7 +52,7 @@ Code Master mostrará el análisis léxico de su código en la ventana inferior.
 ![Imagen de CodeMaster](https://eduardogv.tech/images/EjemploEstructura.png)
 ### Ejemplo de estructura
 
-![Imagen de CodeMaster](https://eduardogv.tech/images/CodeMaster.png
+![Imagen de CodeMaster](https://eduardogv.tech/images/CodeMaster.png)
 
 ## Compatibilidad
 
